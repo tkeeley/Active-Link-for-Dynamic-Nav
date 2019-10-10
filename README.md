@@ -8,7 +8,7 @@ Style your active class in your css and the Javascript will take the current pag
 
 ##
 
-I made this for use in a site where the header.php file had all the navigation and was unable to use phpo if statement to add the active class, so I went for the Javascript solution. (\*I'm not much of a php guy so Javascript was the easiest route for me anyway)
+I made this for use in a site where the header.php file had all the navigation and was unable to use php if statement to add the active class, so I went for the Javascript solution. (\*I'm not much of a php guy so Javascript was the easiest route for me anyway)
 
 ###
 
